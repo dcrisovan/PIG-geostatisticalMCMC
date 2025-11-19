@@ -10,6 +10,7 @@ Sequential Gaussian simulated (SGS) subglacial topography produces a rougher, mo
 In 2026, Shao et al. (🥳) developed a method that uses a Markov Chain Monte Carlo (MCMC) approach with mass-conservation constraints to perturb geostatistical simulations and thus stochastically determine the interpolated measurement.
 
 This project focuses on the application of this technique to Pine Island Glacier (PIG) in West Antarctica, flowing into the Amundsen Sea embayment. PIG is a fast-flowing ice stream that is associated with a significant degree of Antarctica's total ice loss.
+
 <img width="457" height="369" alt="image" src="https://github.com/user-attachments/assets/241c9583-087c-4c6a-bc05-0e1aee490ba0" />
 <img width="440" height="250" alt="image" src="https://github.com/user-attachments/assets/7bddf676-9934-44ef-886c-a9e77ec92aa2" />
 
