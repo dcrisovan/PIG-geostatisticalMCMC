@@ -14,6 +14,12 @@ This project focuses on the application of this technique to Pine Island Glacier
 <img width="457" height="369" alt="image" src="https://github.com/user-attachments/assets/241c9583-087c-4c6a-bc05-0e1aee490ba0" />
 <img width="440" height="250" alt="image" src="https://github.com/user-attachments/assets/7bddf676-9934-44ef-886c-a9e77ec92aa2" />
 
+### Difficulties presumed to be related to the study area:
+
+
+### Results:
+
+
 ### Environment:
 This code was produced in a conda environment created using the provided `gstatsMCMC.yml` file.
 Upon downloading the file in the appropriate location, the environment can be created in the user's terminal using the following code:
@@ -44,4 +50,21 @@ Morlighem, M. (2022). MEaSUREs BedMachine Antarctica. (NSIDC-0756, Version 3). [
 https://tc.copernicus.org/articles/12/1479/2018/ (I don't know how to cite this yet)
 
 ### Software:
-All libraries used? NumPy, GStatSim, etc.?
+Numpy
+Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). DOI: 10.1038/s41586-020-2649-2. (Publisher link).
+
+Matplotlib
+J. D. Hunter, "Matplotlib: A 2D Graphics Environment", Computing in Science & Engineering, vol. 9, no. 3, pp. 90-95, 2007.
+
+Pandas
+The pandas development team. (2020). pandas-dev/pandas: Pandas (latest) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.3509134
+
+gstatsMCMC
+Shao, N., MacKie, E.J., Field, M.J., McCormack, F.S. (2026). A Markov chain Monte Carlo approach for geostatistically1simulating mass-conserving subglacial topography.
+
+gstatsim
+MacKie, E.J., Field, M.J., Wang, L., Yin, Z., Schoedl, N., & Hibbs, M. (2022). GStatSim (1.0). Zenodo. https://doi.org/10.5281/zenodo.7230276
+
+sklearn
+
+skgstat
