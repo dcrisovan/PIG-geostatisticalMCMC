@@ -45,7 +45,7 @@ This topography is realistically rough while also maintaining spatial accuracy.
 - The small-scale chain's loss also exhibited issues, presumably related to the aforementioned large-scale chain's problems: upon the chain's initiation, the loss began at a much larger value than expected. Moreover, multiple convergence errors and a time constraint did not permit the chain to run for sufficient time. This should be performed again once the large-scale chain is resolved.
 
 <p align="center">
-<img width="450" height="333" alt="smallScale_PIG_loss" src="https://github.com/user-attachments/assets/bfa82dfb-bb63-4f15-9413-ac90e93233e9" />
+<img width="1726" height="1357" alt="smallScale_PIG_loss" src="https://github.com/user-attachments/assets/45bdef96-21bb-4314-a598-f2c328fd9c2e" />
 </p>
 
 - The block sizes for the large- and small-scale chains were appropriately chosen following initiation of the respective chains and analysis to ensure a proper acceptance rate (the textbook value is 0.234 ()). 
