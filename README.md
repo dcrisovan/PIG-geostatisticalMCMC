@@ -24,10 +24,11 @@ The polar stereographic coordinates of the vertices of the rectangular study are
   <img width="420" height="250" alt="image" src="https://github.com/user-attachments/assets/7bddf676-9934-44ef-886c-a9e77ec92aa2" />
 </p>
 
+
 ### Results:
 Following execution of T1-T4, the subglacial topography of PIG was generated using the geostatistical MCMC approach:
 <p align="center">
-<img width="484" height="266" alt="Screenshot 2025-11-29 at 4 00 42 AM" src="https://github.com/user-attachments/assets/c0e6c694-676b-4a05-b6a8-fdc77f8ab3c2" />
+<img width="589" height="360" alt="Screenshot 2025-11-29 at 2 50 05 PM" src="https://github.com/user-attachments/assets/49cf3f0f-3593-4ee4-b6e4-620606739852" />
 </p>
 This topography is realistically rough while also maintaining spatial accuracy.
 
