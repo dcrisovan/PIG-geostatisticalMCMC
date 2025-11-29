@@ -47,6 +47,8 @@ This topography is realistically rough while also maintaining spatial accuracy.
 <img width="450" height="333" alt="smallScale_PIG_loss" src="https://github.com/user-attachments/assets/bfa82dfb-bb63-4f15-9413-ac90e93233e9" />
 </p>
 
+- The block sizes for the large- and small-scale chains were appropriately chosen following initiation of the respective chains and analysis to ensure a proper acceptance rate (the textbook value is 0.234 ()). 
+
 ### Environment:
 This code was produced and executed in a conda environment created using the provided `gstatsMCMC.yml` file.
 This allows the user to create an appropriate coding environment with the needed libraries to run the given tutorial files. 
