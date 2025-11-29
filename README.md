@@ -77,7 +77,7 @@ In order to reproduce the results achieved here:
 ### Data:
 All of the data used can be found in this DropBox link:
 https://www.dropbox.com/scl/fo/2mnpqux1jcj3m49tarh9d/AGnKQhjdemYGTg1ajkZR7ek?rlkey=djylgmxv9evjqbyxa0i6393xw&st=7y4694mf&dl=0
-(Files were too large to be uploaded independently).\
+\(Files were too large to be uploaded independently).\
 The citations can be found below.
 
 Nilsson, J., Gardner, A. S. & Paolo, F. (2023). MEaSUREs ITS_LIVE Antarctic Grounded Ice Sheet Elevation Change. (NSIDC-0782, Version 1). [Data Set]. Boulder, Colorado USA. NASA National Snow and Ice Data Center Distributed Active Archive Center. https://doi.org/10.5067/L3LSVDZS15ZV. [describe subset used if applicable]. Date Accessed 11-18-2025.
