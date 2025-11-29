@@ -1,7 +1,7 @@
 # PIG-geostatisticalMCMC
 ### Overview:
 Subglacial topography is often generated using BedMachine or Bedmap products. The bed realizations generated using these products have a high degree of uncertainty and are not reliable in ice sheet modeling. The topography they generate is considered to be too smooth and not realistic. 
-Sequential Gaussian simulated (SGS) subglacial topography produces a rougher, more realistic topography, but it is not accurate.
+Sequential Gaussian simulated (SGS) subglacial topography produces a rougher, more realistic topography, but it is not spatially accurate.
 
 <img width="489" height="258" alt="image" src="https://github.com/user-attachments/assets/2efba719-b7e5-4bf5-9338-950d14db9f0a" />
 <img width="491" height="258" alt="image" src="https://github.com/user-attachments/assets/9287cc93-3b61-46ac-8ca9-378b709409ec" />
